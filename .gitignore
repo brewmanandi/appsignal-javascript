@@ -55,7 +55,6 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
 
 # next.js build output
 .next
@@ -68,3 +67,4 @@ typings/
 
 # Ignore build files
 dist/
+config.bat
