@@ -55,7 +55,6 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
 
 # next.js build output
 .next
@@ -71,3 +70,4 @@ dist/
 
 # VS Code
 .vscode/
+config.bat
